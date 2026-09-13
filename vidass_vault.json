@@ -1,0 +1,142 @@
+{
+    "is_registered": true,
+    "id_number": "053053104",
+    "password": "טולי חיים שלי ",
+    "security_question": "מה שה הכלב של השכן שלי",
+    "security_answer": "עופר",
+    "city": "אילת",
+    "transport": "אוטובוס",
+    "notes": [
+        {
+            "title": "📌 ברוכה הבאה",
+            "text": "לוח הפיקוד VIDASS-HomeCommand מוכן!"
+        }
+    ],
+    "shopping_list": [
+        {
+            "text": "חלב",
+            "cat": "אוכל ומזון",
+            "bought": false
+        },
+        {
+            "text": "ביצים ",
+            "cat": "אוכל ומזון",
+            "bought": false
+        },
+        {
+            "text": "סוכר ",
+            "cat": "אוכל ומזון",
+            "bought": false
+        }
+    ],
+    "inventory": [
+        {
+            "name": "סוכר ",
+            "cat": "אוכל ומזון",
+            "qty": 1,
+            "note": "מגריה מתחת לתנור "
+        },
+        {
+            "name": "קמח",
+            "cat": "אוכל ומזון",
+            "qty": 1,
+            "note": "מגריה מתחת לתנור "
+        },
+        {
+            "name": "ביצים ",
+            "cat": "אוכל ומזון",
+            "qty": 1,
+            "note": "מקרר "
+        },
+        {
+            "name": "חלב ",
+            "cat": "אוכל ומזון",
+            "qty": 1,
+            "note": "מקרר "
+        },
+        {
+            "name": "פסטה ",
+            "cat": "אוכל ומזון",
+            "qty": 2,
+            "note": "מגירה מתחת לתנור "
+        }
+    ],
+    "expenses": [],
+    "categories": [
+        "אוכל ומזון",
+        "חשמל ומוצרים",
+        "בגדים ואופנה",
+        "חומרי ניקוי",
+        "אחר"
+    ],
+    "bills": [
+        {
+            "name": "חשמל",
+            "amount": 0.0,
+            "due_date": "01 לחודש",
+            "paid": false
+        },
+        {
+            "name": "מים",
+            "amount": 0.0,
+            "due_date": "10 לחודש",
+            "paid": false
+        },
+        {
+            "name": "ארנונה",
+            "amount": 0.0,
+            "due_date": "15 לחודש",
+            "paid": false
+        },
+        {
+            "name": "גз",
+            "amount": 0.0,
+            "due_date": "20 לחודש",
+            "paid": false
+        }
+    ],
+    "locations": [
+        {
+            "city": "אילת",
+            "transport": "רכב פרטי (דלק)"
+        },
+        {
+            "city": "כפר סבא",
+            "transport": "אוטובוס"
+        }
+    ],
+    "theme_color": "ורוד",
+    "community_tips": [
+        {
+            "author": "ויקי",
+            "title": "סידור ארונות לפי צבעים",
+            "content": "שיטה מדהימה לשמור על סדר בעיניים ולמצוא בגדים ברגע!",
+            "video_link": ""
+        },
+        {
+            "author": "משפחה",
+            "title": "קניות נבונות בסוף השבוע",
+            "content": "תמיד לבדוק את רשימת הקניות בוואטסאפ לפני שמגיעים לסופר.",
+            "video_link": ""
+        }
+    ],
+    "first_name": "ויקי ויקטוריה וידה",
+    "family_name": "סיבוני",
+    "address": "נחל חיון 3 /7",
+    "password_hash": "0162cd977c5859975d8c52cd5ddd8a60bde965e5ad93bd8806f4406005431b3d",
+    "password_salt": "70493252fb8ee36c04c9edeccfd3b72f",
+    "security_answer_hash": "be0c90b495158fb280c81c8e51edcd3e4e908767cff118e06d50d6ff476c68e7",
+    "security_answer_salt": "c4e02ed3ce1e796571b71c47e64ce759",
+    "music_links": [],
+    "home_cameras": [],
+    "active_city": "אזור הבית",
+    "smart_devices": [],
+    "calendar_events": []
+}
+{
+  "household_accounts": [
+    {"category": "חשמל", "amount": 450, "due_date": "2026-09-20", "status": "לממתין לתשלום"},
+    {"category": "ארנונה", "amount": 800, "due_date": "2026-09-25", "status": "לממתין לתשלום"},
+    {"category": "ועד בית", "amount": 250, "due_date": "2026-09-10", "status": "שולם"}
+  ]
+}
